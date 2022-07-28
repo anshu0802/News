@@ -1,0 +1,61 @@
+.onee {
+  margin-left: 20px;
+  padding-bottom: 12px;
+  background-color: rgb(241, 241, 241);
+  .ln {
+    font-size: large;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  .box11 {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+}
+.twoo {
+  margin-left: 20px;
+
+  align-content: center;
+  text-align: center;
+
+  .heart {
+    display: block;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+    margin-right: auto;
+  }
+}
+.threee {
+  border: 1.5px solid rgb(135, 130, 130);
+
+  .box33 {
+    padding: 4px;
+    margin-top: 30px;
+    font-size: 18px;
+    display: flex;
+    margin-left: 45px;
+    .bold {
+      font-weight: bold;
+    }
+  }
+}
+.tab {
+  background-color: rgb(195, 238, 255);
+  align-items: center;
+  align-content: center;
+  font-weight: bold;
+  font-size: 30px;
+  width: 98.5%;
+  margin-left: 20px;
+  margin-right: 30px;
+  text-align: center;
+  button {
+    border-radius: 30px;
+    height: 30px;
+    width: 120px;
+    margin-left: 80px;
+    background-color: rgb(47, 155, 245);
+  }
+}

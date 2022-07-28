@@ -1,0 +1,101 @@
+.main {
+  background-color: rgb(29, 29, 117);
+  .flogo {
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 80px;
+    width: 120px;
+  }
+  .bleft {
+    color: white;
+    font-size: 10px;
+    margin-left: 20px;
+  }
+  .logos {
+    margin-top: 2px;
+
+    .logos1 {
+      display: flex;
+      color: white;
+      padding-left: 20px;
+    }
+    .logos2 {
+      display: flex;
+      color: white;
+      padding-left: 20px;
+    }
+    .logos3 {
+      display: flex;
+      color: white;
+      padding-left: 20px;
+    }
+    .logos4 {
+      display: flex;
+      color: white;
+      padding-left: 20px;
+    }
+  }
+  .twooo {
+    .reach {
+      font-size: 20px;
+      font-family: bold;
+      color: white;
+      margin-top: 10px;
+    }
+    .bmid {
+      color: white;
+      font-size: 7px;
+      margin-top: 10px;
+    }
+    .email {
+      color: rgb(1, 1, 16);
+      font-size: 14px;
+    }
+    .add {
+      color: white;
+      font-size: 13px;
+    }
+  }
+
+  .threeee {
+    display: block;
+    .blast {
+      color: white;
+      size: 20px;
+      margin-top: 10px;
+      font-family: bold;
+    }
+    .llogo {
+      display: flex;
+
+      color: white;
+    }
+    .llogo1 {
+      border: 1px solid rgb(135, 130, 130);
+      background-color: skyblue;
+      padding: 30px;
+    }
+    .llogo2 {
+      border: 1px solid rgb(135, 130, 130);
+      background-color: rgb(218, 120, 120);
+      padding: 30px;
+    }
+    .llogo3 {
+      border: 1px solid rgb(135, 130, 130);
+      background-color: rgb(97, 239, 149);
+      padding: 30px;
+    }
+    .llogo4 {
+      border: 1px solid rgb(135, 130, 130);
+      background-color: rgb(230, 235, 135);
+      padding: 30px;
+    }
+  }
+}
+.last {
+  background-color: whitesmoke;
+  color: black;
+  size: 15px;
+  padding-left: 400px;
+  margin-bottom: 0;
+}

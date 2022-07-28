@@ -1,0 +1,45 @@
+.body {
+  width: 100%;
+  margin-top: 3%;
+  height: 20%;
+  .bodytop {
+    width: 100%;
+    margin-top: 3%;
+
+    .device {
+      align-content: left;
+      height: 300px;
+      width: 300px;
+      margin-left: 100px;
+      float: left;
+    }
+    .heading {
+      font-size: 30px;
+      margin-left: 600px;
+    }
+    .heading2 {
+      font-size: 20px;
+      display: inline;
+      vertical-align: top;
+      padding-left: 50px;
+      font-weight: bold;
+      .device {
+        align-content: left;
+        height: 300px;
+        width: 300px;
+        margin-left: 100px;
+        float: left;
+      }
+    }
+    .para {
+      font-size: 15px;
+      display: inline;
+      margin-left: 3%;
+
+      p {
+        align-items: center;
+        text-align: center;
+      }
+    }
+  }
+}

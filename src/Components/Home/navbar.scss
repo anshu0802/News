@@ -1,0 +1,35 @@
+.first {
+  display: flex;
+  width: 100%;
+  height: 2%;
+  padding: 1em;
+  background-color: white;
+  .log {
+    align-content: left;
+    height: 30px;
+    width: 30px;
+    margin-right: 100px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+
+    padding: 5px;
+    padding: 0;
+    color: black;
+  }
+  li {
+    padding: 3px;
+    display: inline;
+    font-size: 16px;
+  }
+  .user {
+    padding-left: 90px;
+    size: 20px;
+    padding-right: 20px;
+  }
+  .point {
+    padding-left: 6px;
+    color: red;
+  }
+}
